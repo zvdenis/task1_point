@@ -52,7 +52,7 @@ public:                             // no special need for this line, it used on
     void shift(const Point& pt);
 
     /// Distance to another point.  Pythagorean theorem.
-    double dist(const Point& other);
+    double dist(const Point& other) const;
 
 public:
     //-----<Setters/getters section>-----
@@ -137,7 +137,7 @@ public:
     void clear();
 
     /// \return The sum of distances between neighbouring points in the array.
-    double computePath();
+    double computePath() const;
 
 public:
 
