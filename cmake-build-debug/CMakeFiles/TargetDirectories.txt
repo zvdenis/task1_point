@@ -1,0 +1,8 @@
+C:/Users/zvden/task1_point/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zvden/task1_point/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zvden/task1_point/cmake-build-debug/src/CMakeFiles/xipoint_main.dir
+C:/Users/zvden/task1_point/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/zvden/task1_point/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/zvden/task1_point/cmake-build-debug/tests/CMakeFiles/tests.dir
+C:/Users/zvden/task1_point/cmake-build-debug/tests/CMakeFiles/edit_cache.dir
+C:/Users/zvden/task1_point/cmake-build-debug/tests/CMakeFiles/rebuild_cache.dir
